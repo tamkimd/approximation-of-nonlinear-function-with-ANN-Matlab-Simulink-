@@ -12,7 +12,7 @@ Result
 ## Quick Run :
 * Step 1 : Edit the function you want and Run file approximation_of_nonlinear_function.slx to get input and output data 
 * Step 2 : Run file approximation_of_nonlinear_function.m to train and make ANN block
-* Step 3 : Copy ANN block to new file.slx, combine with clock block and scope block to see the result
+* Step 3 : Copy ANN block to new file.slx, combine with clock block and scope block to see the results
 
-* Note : You can change parameters like activation function, learning rate, hidden layers,... to get the beat result
+* Note : You can change parameters like activation function, learning rate, hidden layers,... to get the best results
 
